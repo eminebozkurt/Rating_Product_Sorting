@@ -1,3 +1,6 @@
 # Rating Product & Sorting Reviews in Amazon
 
-E-ticaretteki en önemli problemlerden bir tanesi ürünlere satış sonrası verilen puanların doğru şekilde hesaplanmasıdır. Bu problemin çözümü e-ticaret sitesi için daha fazla müşteri memnuniyeti sağlamak, satıcılar için ürünün öne çıkması ve satın alanlar için sorunsuz bir alışveriş deneyimi demektir. Bir diğer problem ise ürünlere verilen yorumların doğru bir şekilde sıralanması olarak karşımıza çıkmaktadır. Yanıltıcı yorumların öne çıkması ürünün satışını doğrudan etkileyeceğinden dolayı hem maddi kayıp hem de müşteri kaybına neden olacaktır. Bu 2 temel problemin çözümünde e-ticaret sitesi ve satıcılar satışlarını arttırırken müşteriler ise satın alma yolculuğunu sorunsuz olarak tamamlayacaktır.
+One of the most important problems in e-commerce is the correct calculation of the points given to the products after the sale. 
+The solution to this problem means more customer satisfaction for the e-commerce site, product prominence for sellers and a smooth shopping experience for buyers. 
+Another problem is the correct ranking of the comments given to the products. Since the prominence of misleading reviews will directly affect the sales of the product, it will cause both financial loss and customer loss. 
+In solving these 2 basic problems, e-commerce sites and sellers will increase their sales while customers will complete their purchasing journey smoothly.
